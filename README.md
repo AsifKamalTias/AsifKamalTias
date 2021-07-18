@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asifkamaltias" alt="asifkamaltias" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/asifktias" target="blank"><img src="https://img.shields.io/twitter/follow/asifktias?logo=twitter&style=for-the-badge" alt="asifktias" /></a> </p>
+<p align="left"> <a href="https://twitter.com/asifk_tias" target="blank"><img src="https://img.shields.io/twitter/follow/asifk_tias?logo=twitter&style=for-the-badge" alt="asifk_tias" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJS, NodeJS**
 
@@ -11,7 +11,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/asifktias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asifktias" height="30" width="40" /></a>
+<a href="https://codepen.io/asifkamaltias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="asifkamaltias" height="30" width="40" /></a>
+<a href="https://dev.to/asifkamaltias" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="asifkamaltias" height="30" width="40" /></a>
+<a href="https://twitter.com/asifk_tias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asifk_tias" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/asif-kamal-tias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asif-kamal-tias" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14498626" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14498626" height="30" width="40" /></a>
+<a href="https://instagram.com/asif_tias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asif_tias" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/asifkamaltias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="asifkamaltias" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/asifkamaltias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asifkamaltias" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
